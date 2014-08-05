@@ -3,6 +3,8 @@ UnusedImages
 
 Shell script to search an Xcode project for unused images.
 
+More information can be found at [my website](http://www.nathanlampi.com/posts/10001)
+
 Run this script from the root of the XCode project.
 This will search .xib, .h, .m, and .plist files for any reference to images in the project.
 
